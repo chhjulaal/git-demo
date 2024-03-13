@@ -1,2 +1,10 @@
 # git-demo
- git demo class this class
+
+git demo class this class
+
+# teacher
+ sradha mam
+
+ # student
+ 
+madhur sngh
